@@ -5,9 +5,9 @@ name = "pypi"
 
 [packages]
 sqlalchemy = "*"
-requests = "*"
 pandas = "*"
 numpy = "*"
+requests = "*"
 
 [dev-packages]
 ipykernel = "*"

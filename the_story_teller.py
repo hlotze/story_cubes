@@ -19,6 +19,7 @@ import datetime as dt
 import logging
 import requests
 
+
 import pandas as pd
 import numpy as np
 
@@ -305,18 +306,16 @@ jedes Wort aus einem Thema, das Du verwendet hast **fett**.
     return (genre_chosen, req_txt)
 
 
-def llama(prompt):
+def ollama(prompt):
     """ send prompt to running ollama service, and get back response within 50 sec (timeout)"""
     url = "http://localhost:11434/api/chat"     # this process "ollama"
                                                 # must be started at localhost
                                                 # before running the script
     data = {"model"     : "gemma2:2b",
-            #"model"      : "llama3.1:latest",
-            #"model"      : "llama3:70b",
             "messages"   : [{"role" : "user",
                              "content": prompt}],
             "stream"     : False,
-            "keep_alive" : "10m",               # keep_alive llama model 10 minutes
+            "keep_alive" : "10m",               # keep_alive ollama model 10 minutes
            }
     headers = {"Content-Type" : "application/json"}
     response = requests.post(url,
@@ -405,7 +404,7 @@ def gen_one_story(conn, cur):
     # send request to ollama
     # ollama has to be started before!
     logger.info('start: sending request to ollama')
-    response = llama(req_txt)
+    response = ollama(req_txt)
     logger.info('done: got ollama answer')
     #print(response)
 
