@@ -1,0 +1,55 @@
+group	dice	side	word	jpg
+basic	1	1	Hand	./images/basic/dice_1/Hand.jpg
+basic	1	2	Käfer	./images/basic/dice_1/Kaefer.jpg
+basic	1	3	Lupe	./images/basic/dice_1/Lupe.jpg
+basic	1	4	Monster, Albtraum, Kind mit Schatten	./images/basic/dice_1/Monster-Albtraum-Kind-mit-Schatten.jpg
+basic	1	5	Schildkröte	./images/basic/dice_1/Schildkroete.jpg
+basic	1	6	Würfel	./images/basic/dice_1/Wuerfel.jpg
+basic	2	1	Abacus	./images/basic/dice_2/Abacus.jpg
+basic	2	2	Biene	./images/basic/dice_2/Biene.jpg
+basic	2	3	Brücke	./images/basic/dice_2/Bruecke.jpg
+basic	2	4	Buch	./images/basic/dice_2/Buch.jpg
+basic	2	5	Halbmond	./images/basic/dice_2/Halbmond.jpg
+basic	2	6	Zauberstab	./images/basic/dice_2/Zauberstab.jpg
+basic	3	1	Auge	./images/basic/dice_3/Auge.jpg
+basic	3	2	Baum	./images/basic/dice_3/Baum.jpg
+basic	3	3	Brief, Postkarte	./images/basic/dice_3/Brief-Postkarte.jpg
+basic	3	4	Pyramide	./images/basic/dice_3/Pyramide.jpg
+basic	3	5	Turm	./images/basic/dice_3/Turm.jpg
+basic	3	6	Wolke, Regenbogen, Mensch vor Fluss	./images/basic/dice_3/Wolke-Regenbogen-Mensch-vor-Fluss.jpg
+basic	4	1	Erde	./images/basic/dice_4/Erde.jpg
+basic	4	2	Flugzeug	./images/basic/dice_4/Flugzeug.jpg
+basic	4	3	Hochhaus	./images/basic/dice_4/Hochhaus.jpg
+basic	4	4	Obst, Apfel	./images/basic/dice_4/Obst-Apfel.jpg
+basic	4	5	Taschenlampe, Licht	./images/basic/dice_4/Taschenlampe-Licht.jpg
+basic	4	6	fröhlich	./images/basic/dice_4/froehlich.jpg
+basic	5	1	Buchstabe, L	./images/basic/dice_5/Buchstabe-L.jpg
+basic	5	2	Bügelschloss	./images/basic/dice_5/Buegelschloss.jpg
+basic	5	3	Feuer	./images/basic/dice_5/Feuer.jpg
+basic	5	4	Fuss	./images/basic/dice_5/Fuss.jpg
+basic	5	5	Magnet	./images/basic/dice_5/Magnet.jpg
+basic	5	6	Schaf	./images/basic/dice_5/Schaf.jpg
+basic	6	1	Fragezeichen	./images/basic/dice_6/Fragezeichen.jpg
+basic	6	2	Schlüssel	./images/basic/dice_6/Schluessel.jpg
+basic	6	3	Springbrunnen	./images/basic/dice_6/Springbrunnen.jpg
+basic	6	4	Sternschnuppe, Asteroid	./images/basic/dice_6/Sternschnuppe-Asteroid.jpg
+basic	6	5	Zelt, Tipi	./images/basic/dice_6/Zelt-Tipi.jpg
+basic	6	6	unsicher	./images/basic/dice_6/unsicher.jpg
+basic	7	1	Glühbirne, Licht	./images/basic/dice_7/Gluehbirne-Licht.jpg
+basic	7	2	Haus	./images/basic/dice_7/Haus.jpg
+basic	7	3	Pfeil	./images/basic/dice_7/Pfeil.jpg
+basic	7	4	Schlaf	./images/basic/dice_7/Schlaf.jpg
+basic	7	5	Uhr	./images/basic/dice_7/Uhr.jpg
+basic	7	6	sprechen, Gedanke	./images/basic/dice_7/sprechen-Gedanke.jpg
+basic	8	1	Blume	./images/basic/dice_8/Blume.jpg
+basic	8	2	Fallschirmspringer	./images/basic/dice_8/Fallschirmspringer.jpg
+basic	8	3	Fisch	./images/basic/dice_8/Fisch.jpg
+basic	8	4	Masken, Karneval, traurig und fröhlich	./images/basic/dice_8/Masken-Karneval-traurig-und-froehlich.jpg
+basic	8	5	Schlüsselloch	./images/basic/dice_8/Schluesselloch.jpg
+basic	8	6	Windrose	./images/basic/dice_8/Windrose.jpg
+basic	9	1	Blitz	./images/basic/dice_9/Blitz.jpg
+basic	9	2	Handy, Walkie-Talkie	./images/basic/dice_9/Handy-Walkie-Talkie.jpg
+basic	9	3	Maske	./images/basic/dice_9/Maske.jpg
+basic	9	4	Richtungspfeil	./images/basic/dice_9/Richtungspfeil.jpg
+basic	9	5	Gehstock	./images/basic/dice_9/Gehstock.jpg
+basic	9	6	Waage	./images/basic/dice_9/Waage.jpg

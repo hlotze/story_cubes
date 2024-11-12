@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/**
+__pycache__
+backup/**
+backup/
+stories/**
+stories/
+images/preparations/**
+images/preparations/
+7_stories.pdf
+Pipfile.lock
+stories.db
+test.ipynb
+the_story_teller.log
+tidy_stories.zsh
+www.brettspiele-magazin.de:story-cubes.webloc
+
